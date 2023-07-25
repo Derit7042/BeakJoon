@@ -4,14 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="18c1a5e9-3251-4f9c-a2d4-a010b8dc97c9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BaekJoon.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter1/Main.java" afterDir="false" />
+    <list default="true" id="18c1a5e9-3251-4f9c-a2d4-a010b8dc97c9" name="Changes" comment="2023_07_26_01">
+      <change beforePath="$PROJECT_DIR$/src/Chapter1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter1/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,8 +30,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
   <component name="RunManager">
@@ -69,6 +65,25 @@
       <option name="presentableId" value="Default" />
       <updated>1690301112985</updated>
     </task>
+    <task id="LOCAL-00001" summary="2023_07_26_01">
+      <created>1690303865608</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1690303865608</updated>
+    </task>
+    <task id="LOCAL-00002" summary="2023_07_26_01">
+      <created>1690303880953</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1690303880953</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="2023_07_26_01" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023_07_26_01" />
   </component>
 </project>
