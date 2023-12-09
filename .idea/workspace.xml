@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="18c1a5e9-3251-4f9c-a2d4-a010b8dc97c9" name="Changes" comment="2023_12_09_2 ch02_07 주사위 세개">
-      <change afterPath="$PROJECT_DIR$/src/Chapter3/chap3_01/Main.java" afterDir="false" />
+    <list default="true" id="18c1a5e9-3251-4f9c-a2d4-a010b8dc97c9" name="Changes" comment="2023_12_09_3 ch03_01 구구단">
+      <change afterPath="$PROJECT_DIR$/src/Chapter3/chap3_02/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,20 +36,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Chapter3.chap3_01.Main">
-    <configuration name="Chapter2.chap2_01.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter2.chap2_01.Main" />
-      <module name="BaekJoon" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Chapter2.chap2_01.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Chapter2.chap2_05.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Chapter2.chap2_05.Main" />
       <module name="BaekJoon" />
@@ -102,13 +89,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter3.chap3_02.Main" />
+      <module name="BaekJoon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Chapter3.chap3_02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Chapter3.chap3_01.Main" />
         <item itemvalue="Application.Chapter2.chap2_07.Main" />
         <item itemvalue="Application.Chapter2.chap2_06.Main" />
         <item itemvalue="Application.Chapter2.chap2_05.Main" />
-        <item itemvalue="Application.Chapter2.chap2_01.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -205,7 +205,14 @@
       <option name="project" value="LOCAL" />
       <updated>1702098709542</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="2023_12_09_3 ch03_01 구구단">
+      <created>1702099278469</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1702099278469</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -220,6 +227,7 @@
     <MESSAGE value="2023_12_08_5 알람 시계" />
     <MESSAGE value="2023_12_09_1 ch02_06 오븐 시계" />
     <MESSAGE value="2023_12_09_2 ch02_07 주사위 세개" />
-    <option name="LAST_COMMIT_MESSAGE" value="2023_12_09_2 ch02_07 주사위 세개" />
+    <MESSAGE value="2023_12_09_3 ch03_01 구구단" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023_12_09_3 ch03_01 구구단" />
   </component>
 </project>
