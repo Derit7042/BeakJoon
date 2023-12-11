@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="18c1a5e9-3251-4f9c-a2d4-a010b8dc97c9" name="Changes" comment="2023_12_10_2 ch03_05 코딩은 체육과목 입니다">
-      <change afterPath="$PROJECT_DIR$/src/Chapter3/chap3_06/Main.java" afterDir="false" />
+    <list default="true" id="18c1a5e9-3251-4f9c-a2d4-a010b8dc97c9" name="Changes" comment="2023_12_10_2 ch03_06 빠른 A+B Buffered">
+      <change afterPath="$PROJECT_DIR$/src/Chapter3/chap3_07/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,7 +37,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Chapter3.chap3_06.Main">
+  <component name="RunManager" selected="Application.Chapter3.chap3_07.Main">
     <configuration name="Chapter3.chap3_03.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Chapter3.chap3_03.Main" />
       <module name="BaekJoon" />
@@ -90,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter3.chap3_02.Main" />
+    <configuration name="Chapter3.chap3_07.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter3.chap3_07.Main" />
       <module name="BaekJoon" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter3.chap3_02.*" />
+          <option name="PATTERN" value="Chapter3.chap3_07.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,11 +105,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Chapter3.chap3_07.Main" />
         <item itemvalue="Application.Chapter3.chap3_06.Main" />
         <item itemvalue="Application.Chapter3.chap3_05.Main" />
         <item itemvalue="Application.Chapter3.chap3_04.Main" />
         <item itemvalue="Application.Chapter3.chap3_03.Main" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -241,7 +241,14 @@
       <option name="project" value="LOCAL" />
       <updated>1702215324045</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="2023_12_10_2 ch03_06 빠른 A+B Buffered">
+      <created>1702218017438</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1702218017438</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -261,6 +268,7 @@
     <MESSAGE value="2023_12_09_5 ch03_03 합" />
     <MESSAGE value="2023_12_10_1 ch03_04 영수증" />
     <MESSAGE value="2023_12_10_2 ch03_05 코딩은 체육과목 입니다" />
-    <option name="LAST_COMMIT_MESSAGE" value="2023_12_10_2 ch03_05 코딩은 체육과목 입니다" />
+    <MESSAGE value="2023_12_10_2 ch03_06 빠른 A+B Buffered" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023_12_10_2 ch03_06 빠른 A+B Buffered" />
   </component>
 </project>
