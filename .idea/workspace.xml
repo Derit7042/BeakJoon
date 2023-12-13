@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="18c1a5e9-3251-4f9c-a2d4-a010b8dc97c9" name="Changes" comment="2023_12_12_3 ch03_11 A + B - 5">
-      <change afterPath="$PROJECT_DIR$/src/Chapter3/chap3_12/Main.java" afterDir="false" />
+    <list default="true" id="18c1a5e9-3251-4f9c-a2d4-a010b8dc97c9" name="Changes" comment="2023_12_13_1 ch03_12 A + B - 4 EOF">
+      <change afterPath="$PROJECT_DIR$/src/Chapter4/chap4_01/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -29,15 +29,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "settings.editor.selected.configurable": "File.Encoding"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;File.Encoding&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.Chapter3.chap3_12.Main">
+}</component>
+  <component name="RunManager" selected="Application.Chapter4.chap4_01.Main">
     <configuration name="Chapter3.chap3_09.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Chapter3.chap3_09.Main" />
       <module name="BaekJoon" />
@@ -90,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter3.chap3_08.Main" />
+    <configuration name="Chapter4.chap4_01.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter4.chap4_01.Main" />
       <module name="BaekJoon" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter3.chap3_08.*" />
+          <option name="PATTERN" value="Chapter4.chap4_01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,11 +105,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Chapter4.chap4_01.Main" />
         <item itemvalue="Application.Chapter3.chap3_12.Main" />
         <item itemvalue="Application.Chapter3.chap3_11.Main" />
         <item itemvalue="Application.Chapter3.chap3_10.Main" />
         <item itemvalue="Application.Chapter3.chap3_09.Main" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -283,7 +283,14 @@
       <option name="project" value="LOCAL" />
       <updated>1702392080681</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="2023_12_13_1 ch03_12 A + B - 4 EOF">
+      <created>1702465813899</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1702465813899</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -309,7 +316,8 @@
     <MESSAGE value="2023_12_12_1 ch03_09 별 찍기 - 1" />
     <MESSAGE value="2023_12_12_2 ch03_10 별 찍기 - 2" />
     <MESSAGE value="2023_12_12_3 ch03_11 A + B - 5" />
-    <option name="LAST_COMMIT_MESSAGE" value="2023_12_12_3 ch03_11 A + B - 5" />
+    <MESSAGE value="2023_12_13_1 ch03_12 A + B - 4 EOF" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023_12_13_1 ch03_12 A + B - 4 EOF" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
