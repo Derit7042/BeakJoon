@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="18c1a5e9-3251-4f9c-a2d4-a010b8dc97c9" name="Changes" comment="2023_12_13_1 ch03_12 A + B - 4 EOF">
-      <change afterPath="$PROJECT_DIR$/src/Chapter4/chap4_01/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="18c1a5e9-3251-4f9c-a2d4-a010b8dc97c9" name="Changes" comment="2023_12_13_2 ch04_01 개수 세기">
+      <change afterPath="$PROJECT_DIR$/src/Chapter4/chap4_02/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,20 +36,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;File.Encoding&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Chapter4.chap4_01.Main">
-    <configuration name="Chapter3.chap3_09.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter3.chap3_09.Main" />
-      <module name="BaekJoon" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Chapter3.chap3_09.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Chapter3.chap3_10.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Chapter3.chap3_10.Main" />
       <module name="BaekJoon" />
@@ -103,13 +89,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter4.chap4_02.Main" />
+      <module name="BaekJoon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Chapter4.chap4_02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Chapter4.chap4_01.Main" />
         <item itemvalue="Application.Chapter3.chap3_12.Main" />
         <item itemvalue="Application.Chapter3.chap3_11.Main" />
         <item itemvalue="Application.Chapter3.chap3_10.Main" />
-        <item itemvalue="Application.Chapter3.chap3_09.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -290,7 +289,14 @@
       <option name="project" value="LOCAL" />
       <updated>1702465813899</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="2023_12_13_2 ch04_01 개수 세기">
+      <created>1702467196081</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1702467196081</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -317,7 +323,8 @@
     <MESSAGE value="2023_12_12_2 ch03_10 별 찍기 - 2" />
     <MESSAGE value="2023_12_12_3 ch03_11 A + B - 5" />
     <MESSAGE value="2023_12_13_1 ch03_12 A + B - 4 EOF" />
-    <option name="LAST_COMMIT_MESSAGE" value="2023_12_13_1 ch03_12 A + B - 4 EOF" />
+    <MESSAGE value="2023_12_13_2 ch04_01 개수 세기" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023_12_13_2 ch04_01 개수 세기" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
