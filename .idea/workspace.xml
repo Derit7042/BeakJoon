@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="18c1a5e9-3251-4f9c-a2d4-a010b8dc97c9" name="Changes" comment="2023_12_14_1 ch04_03 최소, 최대">
-      <change afterPath="$PROJECT_DIR$/src/Chapter4/chap4_04/Main.java" afterDir="false" />
+    <list default="true" id="18c1a5e9-3251-4f9c-a2d4-a010b8dc97c9" name="Changes" comment="2023_12_15_1 ch04_04 최댓값 수정중">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapter4/chap4_04/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter4/chap4_04/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -311,11 +311,17 @@
       <option name="project" value="LOCAL" />
       <updated>1702540651131</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="2023_12_15_1 ch04_04 최댓값 수정중">
+      <created>1702642676743</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1702642676743</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2023_07_26_02" />
     <MESSAGE value="2023_07_26_03" />
     <MESSAGE value="2023_07_26_04" />
     <MESSAGE value="2023_12_08_1 두 수 비교하기" />
@@ -340,7 +346,8 @@
     <MESSAGE value="2023_12_13_2 ch04_01 개수 세기" />
     <MESSAGE value="2023_12_13_3 ch04_02 X보다 작은 수" />
     <MESSAGE value="2023_12_14_1 ch04_03 최소, 최대" />
-    <option name="LAST_COMMIT_MESSAGE" value="2023_12_14_1 ch04_03 최소, 최대" />
+    <MESSAGE value="2023_12_15_1 ch04_04 최댓값 수정중" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023_12_15_1 ch04_04 최댓값 수정중" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
