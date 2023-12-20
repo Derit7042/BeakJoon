@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="18c1a5e9-3251-4f9c-a2d4-a010b8dc97c9" name="Changes" comment="2023_12_18_1 ch04_05 공 넣기">
-      <change afterPath="$PROJECT_DIR$/src/Chapter4/chap4_06/Main.java" afterDir="false" />
+    <list default="true" id="18c1a5e9-3251-4f9c-a2d4-a010b8dc97c9" name="Changes" comment="2023_12_19_1 ch04_06 공 바꾸기">
+      <change afterPath="$PROJECT_DIR$/src/Chapter4/chap4_07/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,7 +37,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;File.Encoding&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Chapter4.chap4_06.Main">
+  <component name="RunManager" selected="Application.Chapter4.chap4_07.Main">
     <configuration name="Chapter4.chap4_03.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Chapter4.chap4_03.Main" />
       <module name="BaekJoon" />
@@ -90,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter4.chap4_02.Main" />
+    <configuration name="Chapter4.chap4_07.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter4.chap4_07.Main" />
       <module name="BaekJoon" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter4.chap4_02.*" />
+          <option name="PATTERN" value="Chapter4.chap4_07.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,11 +105,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Chapter4.chap4_07.Main" />
         <item itemvalue="Application.Chapter4.chap4_06.Main" />
         <item itemvalue="Application.Chapter4.chap4_05.Main" />
         <item itemvalue="Application.Chapter4.chap4_04.Main" />
         <item itemvalue="Application.Chapter4.chap4_03.Main" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -332,11 +332,17 @@
       <option name="project" value="LOCAL" />
       <updated>1702904056645</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="2023_12_19_1 ch04_06 공 바꾸기">
+      <created>1702995327243</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1702995327243</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2023_12_08_1 두 수 비교하기" />
     <MESSAGE value="2023_12_08_2 시험 성적" />
     <MESSAGE value="2023_12_08_3 윤년" />
     <MESSAGE value="2023_12_08_4 사분면 고르기" />
@@ -361,7 +367,8 @@
     <MESSAGE value="2023_12_15_1 ch04_04 최댓값 수정중" />
     <MESSAGE value="2023_12_16_1 ch04_04 최댓값" />
     <MESSAGE value="2023_12_18_1 ch04_05 공 넣기" />
-    <option name="LAST_COMMIT_MESSAGE" value="2023_12_18_1 ch04_05 공 넣기" />
+    <MESSAGE value="2023_12_19_1 ch04_06 공 바꾸기" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023_12_19_1 ch04_06 공 바꾸기" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
