@@ -9,20 +9,38 @@ public class Main {
         int[] arr = new int[28];
 
         for (int i = 0; i < 28; i++) {
-            while(scanner.hasNextInt()) {
-                int a = scanner.nextInt();
-                arr[i] = a;
-            }
+            int a = scanner.nextInt();
+            arr[i] = a;
+//            while(scanner.hasNextInt()) {
+//
+//            }
         }
         Arrays.sort(arr);
 
-        for (int i = 1; i < 27; i++) {
-            if (arr[i] - 1 != arr[i-0]) {
-                System.out.println(arr[i] + "a");
+        for (int i = 1; i <= 30; i++) {
+            if (arr.equals())
+        }
+
+
+        for (int i = 1; i <= 30; i++) {
+            for (int a : arr) {
+                if (!(a.contains(i))){
+                    System.out.println(i);
+                }
             }
         }
 
-        System.out.println(Arrays.toString(arr));
+
+
+//        for (int i = 1; i < 27; i++) {
+//            if (arr[i] - 1 != arr[i-0]) {
+//                System.out.println(arr[i] + "a");
+//            }
+//        }
+//
+//        System.out.println(Arrays.toString(arr));
+
+
         //for (int i = 0; i < 30; i++) {
         //    System.out.println(arr[i]);
         //}
