@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="18c1a5e9-3251-4f9c-a2d4-a010b8dc97c9" name="Changes" comment="2023_12_20_1 ch04_07 과제 안 내신분 수정 중">
+    <list default="true" id="18c1a5e9-3251-4f9c-a2d4-a010b8dc97c9" name="Changes" comment="2024_01_30_1 ch04_07 과제 안 내신분 수정 중">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Chapter4/chap4_07/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter4/chap4_07/Main.java" afterDir="false" />
     </list>
@@ -346,11 +346,17 @@
       <option name="project" value="LOCAL" />
       <updated>1703083972866</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="2024_01_30_1 ch04_07 과제 안 내신분 수정 중">
+      <created>1706621131357</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1706621131357</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2023_12_08_3 윤년" />
     <MESSAGE value="2023_12_08_4 사분면 고르기" />
     <MESSAGE value="2023_12_08_5 알람 시계" />
     <MESSAGE value="2023_12_09_1 ch02_06 오븐 시계" />
@@ -375,7 +381,8 @@
     <MESSAGE value="2023_12_18_1 ch04_05 공 넣기" />
     <MESSAGE value="2023_12_19_1 ch04_06 공 바꾸기" />
     <MESSAGE value="2023_12_20_1 ch04_07 과제 안 내신분 수정 중" />
-    <option name="LAST_COMMIT_MESSAGE" value="2023_12_20_1 ch04_07 과제 안 내신분 수정 중" />
+    <MESSAGE value="2024_01_30_1 ch04_07 과제 안 내신분 수정 중" />
+    <option name="LAST_COMMIT_MESSAGE" value="2024_01_30_1 ch04_07 과제 안 내신분 수정 중" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
