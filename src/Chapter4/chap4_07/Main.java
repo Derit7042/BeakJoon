@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-//        Scanner scanner = new Scanner(System.in);
+        Scanner scanner = new Scanner(System.in);
 //        boolean[] arr = new boolean[31];
 //
 //        for (int i = 0; i < 28; i++) {
@@ -17,19 +17,17 @@ public class Main {
 //                System.out.println(j);
 //            }
 //        }
-//        scanner.close();
 
 
-        Scanner scanner = new Scanner(System.in);
 
-        int[] arr = new int[31];
+        int[] arr2 = new int[31];
 
         for (int i = 0; i < 28; i++) {
-            arr[scanner.nextInt()] ++;
+            arr2[scanner.nextInt()] ++;
         }
 
         for (int j = 1; j<= 30; j++) {
-            if (arr[j] == 0) {
+            if (arr2[j] == 0) {
                 System.out.println(j);
             }
         }
